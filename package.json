@@ -1,0 +1,5 @@
+{
+  "devDependencies": {
+    "vue-unity-webgl": "^1.2.0"
+  }
+}
